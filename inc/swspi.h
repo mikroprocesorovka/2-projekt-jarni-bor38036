@@ -1,4 +1,5 @@
 // Tyto makra upravujte podle potøeby 
+//DIN PB5, CS PB4, CLK PB3
 #define DIN_GPIO 	GPIOB
 #define DIN_PIN 	GPIO_PIN_5
 #define CS_GPIO 	GPIOB
